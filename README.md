@@ -39,22 +39,22 @@ A spreadsheet with more detailed script information (Python and R) can be found 
 12.	Calculating dinucleotide content
 13.	Producing genome master table
 14.	Merging files for R analysis
-19. Calculating actual observed TGT frequencies in 3'UTR of CDS
-20. Calculating actual observed TGG frequencies in 3'UTR of CDS
-21.	Calculating expected TGT frequencies in 3'UTR of NCDS
-22.	Calculating expected TGG frequencies in 3'UTR of NCDS
-23.	Calculating expected TGT frequencies in 3'UTR of OOF seq
-24.	Calculating expected TGG frequencies in 3'UTR of OOF seq
-25.	Merges csv files (TGT and TGG related) for R analysis
+15. Calculating actual observed TGT frequencies in 3'UTR of CDS
+16. Calculating actual observed TGG frequencies in 3'UTR of CDS
+17.	Calculating expected TGT frequencies in 3'UTR of NCDS
+18.	Calculating expected TGG frequencies in 3'UTR of NCDS
+19.	Calculating expected TGT frequencies in 3'UTR of OOF seq
+20.	Calculating expected TGG frequencies in 3'UTR of OOF seq
+21.	Merges csv files (TGT and TGG related) for R analysis
 
 
 **R:**
 
-14.	Statistical analysis (two-tailed binomial test) and representation of simulated seq null 1 (z scores) histogram (figure_1)
-15.	Statistical analysis (Spearman's rank correlation) and representation GC3 content with z scores scatter graph (figure_2)
-16.	Statistical analysis (paired t test) and representation of NCDS null 2 (observed - expected) histogram (figure_3)
-17.	Statistical analysis (paired t test) and representation of OOF null 3 (observed - expected) histogram (figure_4)
-18.	Statistical analysis (paired t test) and representation of dinuclotide effects (observed vs expected) histogram (figure_5)
+21.	Statistical analysis (two-tailed binomial test) and representation of simulated seq null 1 (z scores) histogram (figure_1)
+22.	Statistical analysis (Spearman's rank correlation) and representation GC3 content with z scores scatter graph (figure_2)
+23.	Statistical analysis (paired t test) and representation of NCDS null 2 (observed - expected) histogram (figure_3)
+24.	Statistical analysis (paired t test) and representation of OOF null 3 (observed - expected) histogram (figure_4)
+25.	Statistical analysis (paired t test) and representation of dinuclotide effects (observed vs expected) histogram (figure_5)
 26.	Statistical analysis (paired t test) and representation of observed TGT and TGG rates vs null 2 and 3 (NCDS and OOF) histogram (appendix 2)
 
 **FASTA folders/files explained:**
