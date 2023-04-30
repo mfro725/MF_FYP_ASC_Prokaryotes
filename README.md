@@ -39,7 +39,7 @@ A spreadsheet with more detailed script information (Python and R) can be found 
 12.	Calculating dinucleotide content
 13.	Producing genome master table
 14.	Merging files for R analysis
-
+--
 19. Calculating actual observed TGT frequencies in 3'UTR of CDS
 20. Calculating actual observed TGG frequencies in 3'UTR of CDS
 21.	Calculating expected TGT frequencies in 3'UTR of NCDS
