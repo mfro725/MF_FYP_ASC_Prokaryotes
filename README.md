@@ -59,7 +59,7 @@ A spreadsheet with more detailed script information (Python and R) can be found 
 
 **FASTA folders/files explained:**
 
-The working repository contains 3 folders of FASTA files:
+The code in this working repository generates 3 folders of FASTA files:
 
 • UTR_CDS: This folder contains FASTA files for filtered bacteria dataset. Sequences contained in the FASTA files are the 3’ UTR of protein coding sequences with information for all qualifying genes that satisfy filters.
 
