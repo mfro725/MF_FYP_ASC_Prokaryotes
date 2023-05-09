@@ -3,6 +3,7 @@
 Scripts and files for the associated FYP carrying out comprehensive analysis of stop codon usage in 728 bacterial and archaic genomes: "Comprehensive analysis of additional stop codon usage in bacteria and archaea: an error-proofing role is minimal, but it can depend on the analysis"
 
 
+
 This repository contains the source code for running the analysis described in the project.
 
 ====================================================================================
