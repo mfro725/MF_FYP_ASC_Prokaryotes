@@ -1,6 +1,6 @@
 # MF_FYP_ASC_Prokaryotes
 
-Scripts and files for the associated FYP carrying out comprehensive analysis of stop codon usage in 728 bacterial and archaic genomes:  "Overall, evidence in bacteria and archaea suggests no selection for additional fail-safe stop codons but it is dependent on the analysis."
+Scripts and files for the associated FYP carrying out comprehensive analysis of stop codon usage in 728 bacterial and archaic genomes:  "Analysis suggests the error-proofing role of additional stop codons in bacteria and archaea is minimal, but it can depend on the analysis"
 
 
 This repository contains the source code for running the analysis described in the project.
